@@ -6,3 +6,4 @@ requests<3
 whitenoise<7
 psycopg2-binary<3
 gunicorn
+mysql-connector-python
